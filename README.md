@@ -47,9 +47,7 @@ Portfolio_Templates/
 
 To use this portfolio template:
 
-Clone the repository:
-
-git clone https://github.com/Atul11190/Portfolio_Templetes.git
+# Clone the repository: git clone https://github.com/Atul11190/Portfolio_Templetes.git
 
 Open index.html in your browser to view the portfolio.
 
@@ -59,8 +57,8 @@ Customize content in HTML, CSS, and JavaScript files as needed.
 
 For any queries or customization requests, feel free to reach out:
 
-📧 Email: atulkumar40198@gmail.com
+# 📧 Email: atulkumar40198@gmail.com
 
-🔗 LinkedIn: Atul Kumar
+# 🔗 LinkedIn: Atul Kumar
 
-💻 GitHub: Atul11190
+# 💻 GitHub: Atul11190
