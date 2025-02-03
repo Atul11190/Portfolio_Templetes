@@ -16,14 +16,30 @@ Easy Customization 🛠️ – Well-structured code for easy modifications.
 
 📂 Project Structure
 
+
+
 Portfolio_Templates/
 │── index.html         # Home Page
+
+
 │── about.html         # About Me Page
+
+
 │── project.html       # Projects Showcase
+
+
 │── contact.html       # Contact Page
+
+
 │── main.css           # Main Stylesheet
+
+
 │── animation.css      # Animation Effects
+
+
 │── javaScript.js      # Interactive Features
+
+
 │── assets/            # Images and Resources
 
 🚀 Getting Started
